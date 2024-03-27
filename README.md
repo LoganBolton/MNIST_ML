@@ -1,2 +1,4 @@
-# VisionML
-Messing around with Computer Vision combined with Machine Learning
+
+Messing around with the MNIST dataset
+
+98% prediction rate for images 
